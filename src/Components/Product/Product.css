@@ -1,0 +1,14 @@
+.Product {
+    background-color:lightblue;
+    height: auto;
+    width: auto;
+}
+
+.Body{
+    padding: 5%;
+    display: flex;
+}
+
+.Texts {
+    margin-left: 5%;
+}
