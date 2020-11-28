@@ -1,0 +1,36 @@
+[{
+    "id" : "1",
+    "name": "Paper Watch",
+    "description" : "A luxury watch made with paper",
+    "price" : 50,
+    "imgName" : "watch.png"
+},
+{
+    "id" : "2",
+    "name": "A pair of paper glass",
+    "description" : "Why you should need a more resistent type of glasses?",
+    "price" : 130,
+    "imgName" : "glass.png"
+},
+{
+    "id" : "3",
+    "name": "Paper Light",
+    "description" : "Scientists have found a new way to exploit paper as light generator.",
+    "price" : 24,
+    "imgName" : "light.png"
+},
+{
+    "id" : "4",
+    "name": "Paper Shoe",
+    "description" : "A single paper show. Warning: Do not war in rainy days.",
+    "price" : 20.5,
+    "imgName" : "shoes.png"
+},
+{
+    "id" : "5",
+    "name": "Paper Cap",
+    "description" : "A soft paper cap, excellent against the sweat in the summer days.",
+    "price" : 8,
+    "imgName" : "cap.png"
+}
+]

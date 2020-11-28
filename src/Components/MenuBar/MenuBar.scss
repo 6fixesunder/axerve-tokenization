@@ -1,0 +1,25 @@
+.MenuBar {
+    padding: 2% 0;
+    background-color: brown;
+    display: flex;
+    flex-direction: column;
+    height: 15%;
+    width: 100%;
+    
+    .Menu{
+        width: 100%;
+        display: flex;
+        justify-content: space-evenly;
+        align-items: center;
+        
+        & p {
+            margin-top: 2%;
+            margin-bottom: 2%;
+        }
+    }
+
+    & h3 {
+        text-align: center;
+        margin: 0;
+    }
+}
