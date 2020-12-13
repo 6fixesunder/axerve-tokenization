@@ -8,10 +8,10 @@ All the payments are managed through Axerve payment api. Afer the first payment 
 
 ## Basic Setup
 
-Before starting the app configure your [Merchant API key and Shop ID](https://docs.gestpay.it/rest/getting-started/setup-merchant-profile/) into *config.json* file located [here](https://github.com/6fixesunder/axerve-tokenization/blob/master/src/Config/config.json)
+Before starting the app configure your [Merchant API key and Shop ID](https://docs.gestpay.it/rest/getting-started/setup-merchant-profile/) into *config.json* file located [here](https://github.com/6fixesunder/axerve-tokenization/blob/master/src/Config/config.json).
 
 ## Running the app
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). 
 
 In the project directory, you can run:
 
