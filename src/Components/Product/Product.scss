@@ -1,0 +1,33 @@
+.Product {
+    background-color:darkkhaki;
+    height: auto;
+    width: auto;
+    border-style: solid;
+    border-block-color: black;
+    border-width: 1px;
+    border-radius: 10px;
+
+    .ProductName {
+        text-align: center;
+    }
+
+    .Body{
+        padding: 5%;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+
+        & p, h4 {
+            margin: 2%;
+            text-align: center;
+        }
+    }
+    
+    .ButtonContainer {
+        text-align: center;
+        padding: 2% 0% 2% 0;
+        display: flex;
+        justify-content: space-evenly;
+    }
+ 
+}

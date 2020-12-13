@@ -1,0 +1,28 @@
+.App {
+
+  height: 100%;
+  width: 100%;
+
+  .MenuBarContainer{
+    position: fixed;
+    height: 100%;
+    width: 100%;
+  }
+
+  .Container {
+    position: fixed;
+    top: 15%;
+    height: 75%;
+    width: 100%;
+
+    padding: 0 4% 0 4%;
+  }
+
+  .FooterContainer {
+    position: fixed;
+    height: 100%;
+    width: 100%;
+    top: 90%
+  }
+
+}
