@@ -80,8 +80,8 @@ class AxerveAPI {
             let inputData: any = {
                 "shopLogin": `${CONF.AXERVE_SHOP_LOGIN}`,
                 "buyer": {
-                    "name": "Riccardo DAniello",
-                    "email": "6fixesunder@gmail.com"
+                    "name": "Your Name",
+                    "email": "your_email@email.com"
                 },
                 "paymentTypeDetails": {
                     "creditcard": {

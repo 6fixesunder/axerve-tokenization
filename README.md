@@ -1,6 +1,6 @@
 # Axerve Card Tokenization
 
-The aim of this project is to show off how to use the card tokenization mechanism, discussed in this [article](https://6fixesunder.com), available through  Axerve service.
+The aim of this project is to show off how to use the card tokenization mechanism, discussed in this [article](https://6fixesunder.com/aexerve-gestpay-payment-with-card-tokenization-using-rest-api/), available through  Axerve service.
 
 I've built a simple e-shop where you can add products to your cart and then purchase them. 
 
